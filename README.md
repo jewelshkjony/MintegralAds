@@ -74,8 +74,8 @@ The ads you get during the test are official Mintegral ads, so they will be affe
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/MintegralAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.mintegralads.aix</a>(3.67 MB) \
 <b>SDK Version:</b> 16.1.91\
-<b>Price:</b> 15 USD\
-<b>Last amendment:</b> 31 July 2022\
+<b>Price:</b> 11 USD\
+<b>Last amendment:</b> 04 August 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
